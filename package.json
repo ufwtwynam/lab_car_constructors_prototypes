@@ -1,0 +1,15 @@
+{
+  "name": "lab_car_constructors_prototypes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "car_dealership.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
